@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Replace your entire README with this upgraded professional version.
 
 Current README: 
@@ -380,3 +381,6 @@ Built by Richa
 
 MIT License
 ````
+=======
+# WorkBoard
+>>>>>>> b6896326e8471c8e480a946e9a0bfbda98d5230f
