@@ -1,4 +1,4 @@
-const BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const BASE = 'https://laudable-laughter-production-4faa.up.railway.app';
 
 export const api = {
   async getJobs(params = {}) {
